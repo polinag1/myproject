@@ -6,28 +6,11 @@
 #main{
     margin-left: 200px;
     margin-right: 200px;
-    margin-top:100px;
+    margin-top:150px;
     width: 75%;
     height: 2000px;
   
 }
-
-#mainpic{
-    
-    margin-left:10px;
-    margin-right:10px;
-    height:500px;
-    background-image: url(../image/coct1.jpg);
-    border:5px solid white;
-    
-}
-
-#name{
- text-align: center;
- margin-top:250px;
- 
-}
-
 
 #header{
     
@@ -39,7 +22,4 @@
     height: 115px;
     background-image: url(../image/header22.jpg);
 }
-
-
-
 

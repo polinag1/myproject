@@ -1,19 +1,35 @@
 var articles=[
     {
         title:'Article 1',
-        link:'test1.html'
+        link:'blog.html'
     },
     {
         title:'Article 2',
-        link:'test2.html'
+        link:'coctails.html'
     },
     {
         title:'Article 3',
-        link:'test3.html'
+        link:'margarita.html'
     },
     {
         title:'Article 4',
-        link:'test4.html'
+        link:'pinacolada.html'
+    },
+    {
+        title:'Article 5',
+        link:'krovavmeri.html'
+    },
+    {
+        title:'Article 6',
+        link:'zombi.html'
+    },
+    {
+        title:'Article 7',
+        link:'b52.html'
+    },
+    {
+        title:'Article 8',
+        link:'mohito.html'
     },
 ]
 var blog='<ul>',
