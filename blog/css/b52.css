@@ -1,25 +1,29 @@
 #backpic{
-   
+    background-size: 100%;
+    
     background-image: url(../image/fon.jpg);
 }
 
 #main{
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top:150px;
+    margin-left: 13.5%;
+    margin-top:100px;
     width: 75%;
     height: 2000px;
+    text-decoration-color: white;
   
 }
 
 #header{
-    
+    background-size: 100%;
+    background-repeat: no-repeat ;
     height: 125px;
     background-image: url(../image/header22.jpg);
 }
 #footer{
-    
+    background-size: 100%;
+    background-repeat: no-repeat ;
     height: 115px;
     background-image: url(../image/header22.jpg);
 }
+
 

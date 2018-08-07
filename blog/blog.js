@@ -3,10 +3,7 @@ var articles=[
         title:'Article 1',
         link:'blog.html'
     },
-    {
-        title:'Article 2',
-        link:'coctails.html'
-    },
+    
     {
         title:'Article 3',
         link:'margarita.html'
