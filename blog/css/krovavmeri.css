@@ -19,6 +19,32 @@
     height: 125px;
     background-image: url(../image/header22.jpg);
 }
+#tr1{
+    font-size: 34pt;
+    color:rgb(48, 1, 255);  
+  
+}
+
+#tr2{
+    font-size: 34pt;
+    color:rgb(48, 1, 255); 
+   
+
+}
+
+#tr3{
+    font-size: 34pt;
+    color:rgb(48, 1, 255); 
+    
+   
+}
+
+#tr4{
+    font-size: 34pt;
+    color:rgb(48, 1, 255); 
+  
+}
+
 #footer{
     background-size: 100%;
     background-repeat: no-repeat ;
