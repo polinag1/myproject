@@ -12,42 +12,45 @@ body{
 #main{
     margin-left: 13.5%;
     width: 75%;
-    height:0px;
+    height:430px;
     text-decoration-color: white;
   
 }
 
 #name{
-color: rgb(238, 168, 232);
-font-size: 90pt;
-width: 100px;
-height: 60px;
-margin-left: 15%;
-margin-top: 5px;
+    color: rgb(238, 168, 232);
+    font-size: 90pt;
+    width: 100px;
+    height: 60px;
+    margin-left: 15%;
+    margin-top: 5px;
 
 
 }
 
-#margfoto{
+#krovavfoto{
     width: 0px;
 margin-left: 0px;
 margin-top: 0px;
+
 }
     
 
-#margfoto1{
-    width: 800px;
-   
-    margin-left: 130px;
+#krovavfoto1{
+    width: 670px;
+   margin-top: 50px;
+    margin-left: 150px;
     }
 
-#sostav{
+   
+   
+#sostav {
     color: rgb(238, 223, 137);
-font-size: 36pt;
-width: 370px;
-height: 5px;
-margin-left: 66%;
-margin-top:120px;
+    font-size: 32pt;
+    width: 370px;
+    height: 5px;
+    margin-left: 60%;
+    margin-top: 200px;
 
 }
 #title1{
@@ -63,6 +66,11 @@ margin-top:120px;
     font-size: 26pt;
     margin-top: 40px;
     margin-left: 28px;
+}
+
+#koroleva{
+    width: 370px; 
+    margin-left: 32%;  
 }
 
 #title2{
@@ -82,7 +90,7 @@ margin-top:120px;
 #foto1{
     margin-left:20%;
     height:75%;
-    width:55%;
+    width:45%;
     margin-top:23px;
 }
 
@@ -99,14 +107,14 @@ margin-top:120px;
     margin-top: 100px;
     margin-left: 10%;  
     margin-right: 55%;
-   
+  
 }
 
 
 #foto2{
-    width: 610px;
-    margin-left: 55%;
-    margin-bottom: 200px;
+    width: 710px;
+    margin-left: 113%;
+   
 }
 
 #header{

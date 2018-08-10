@@ -12,7 +12,7 @@ body{
 #main{
     margin-left: 13.5%;
     width: 75%;
-    height:0px;
+    height:20px;
     text-decoration-color: white;
   
 }
@@ -82,7 +82,7 @@ margin-top:120px;
 #foto1{
     margin-left:20%;
     height:75%;
-    width:55%;
+    width:39%;
     margin-top:23px;
 }
 
@@ -99,14 +99,15 @@ margin-top:120px;
     margin-top: 100px;
     margin-left: 10%;  
     margin-right: 55%;
-   
+    display: inline-block;
 }
 
 
 #foto2{
     width: 610px;
-    margin-left: 55%;
-    margin-bottom: 200px;
+    margin-left: 95%;
+    margin-bottom: 500px;
+    display: inline-block;
 }
 
 #header{

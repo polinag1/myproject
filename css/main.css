@@ -18,8 +18,8 @@ body{
 }
 
 #mainpic1{
-    width: 1500px;
-    height: 30%;
+    width: 1400px;
+    
   margin-left:7%;
   
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ body{
 #name{
     font-size: 90pt;
     color: rgb(230, 71, 190);
-    margin-left:50%;
+    margin-left:34%;
 
 }
 
@@ -65,15 +65,22 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
+
     
 }
+
+
 #margg{
     font-size: 65pt;
-    color:rgb(238, 168, 232); 
-    margin-left:63%;
+    display: inline-block;
+    margin-left: 180px;
    
-   
-   
+
+}
+
+#margg a{
+    color:rgb(238 ,168, 232); 
 
 }
 
@@ -85,14 +92,18 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
     
 }
 #krovavv{
     font-size: 65pt;
-    color:rgb(238, 168, 232); 
-    margin-left:10%;
+   margin-left: 160px;
+   display: inline-block;
    
 
+}
+#krovavv a{
+    color:rgb(238, 168, 232); 
 }
 
 #b521{
@@ -103,14 +114,19 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
     
 }
 #b522{
     font-size: 65pt;
-    color:rgb(238, 168, 232); 
-    margin-left:63%;
+    margin-left:66%;
+    display: inline-block;
    
 
+}
+
+#b522 a{
+    color:rgb(238, 168, 232); 
 }
 
 #mohito1{
@@ -121,14 +137,19 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
     
 }
 #mohitoo{
-    font-size: 65pt;
-    color:rgb(238, 168, 232); 
+    font-size: 65pt; 
     margin-left:17%;
+    display: inline-block;
    
 
+}
+
+#mohitoo a{
+    color:rgb(238, 168, 232); 
 }
 
 #zombi1{
@@ -139,14 +160,19 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
     
 }
 #zombii{
     font-size: 65pt;
-    color:rgb(238, 168, 232); 
     margin-left:67%;
+    display: inline-block;
    
 
+}
+
+#zombii a{
+    color:rgb(238, 168, 232); 
 }
 
 
@@ -158,14 +184,19 @@ body{
     border:2px solid white;
     background-repeat: no-repeat;
     background-size: 100%;
+    display: inline-block;
     
 }
 #pinaa{
     font-size: 65pt;
-    color:rgb(238, 168, 232); 
     margin-left:13%;
+    display: inline-block;
    
 
+}
+
+#pinaa a{
+    color:rgb(238, 168, 232); 
 }
 
 #title3{
@@ -258,7 +289,7 @@ body{
     font-size: 34pt;
     color:rgb(48, 1, 255); 
     margin-top: 43px;
-    margin-left:100px; 
+    margin-left:130px; 
     
   
 }
